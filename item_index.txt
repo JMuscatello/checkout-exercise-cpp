@@ -1,0 +1,6 @@
+1	baked beans	1.99	NONE
+2	chicken pie	2.99	NONE
+3	crisps	0.59	3FOR2
+4	choc_bar	0.35	3RDFREE
+5	soft_drink	0.70	3RDFREE
+6	biscuits	0.99	3FOR2
